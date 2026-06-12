@@ -1,4 +1,4 @@
-Apply-SMOTE-to-Handle-an-Imbalanced-Dataset
+#Apply-SMOTE-to-Handle-an-Imbalanced-Dataset
 
 Findings:
 The original dataset was highly imbalanced, with fraud
